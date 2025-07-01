@@ -628,7 +628,7 @@ body #frame .frame-container {
 
 body #frame .frame-container #penlink {
   position: absolute;
-  bottom: 20px;
+  bottom: 50px;
   right: 20px;
   text-decoration: none;
   color: #b8b2a9;
